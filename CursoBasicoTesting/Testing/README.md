@@ -1,6 +1,6 @@
 hola mundo
 <!-- PROJECT LOGO -->
-hola mundo
+hola Mundo
 <br />
 <p align="center">
   <a href="">
